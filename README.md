@@ -83,3 +83,11 @@ NLP相关代码
 * 包括：Logistic Regression、KNN、SVM、Naive Bayes、Random Tree、 Random Forest、Neural Network
 
 </details>
+
+<details>
+<summary>Assignment 9</summary>
+
+* 使用经典数据集 mnist的升级版，notMNIST构建神经网络进行图像分类
+* 运用tensorflow和keras两种框架进行神经网络构建
+
+</details>
